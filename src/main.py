@@ -1,5 +1,4 @@
 # by Noah Richards
-# do not redistribute
 
 
 import csv
