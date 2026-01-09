@@ -1,0 +1,16 @@
+bycatchFit(
+  setupObj = setupObj,
+  selectCriteria = "BIC",
+  DoCrossValidation = FALSE,
+  DredgeCrossValidation = FALSE,
+  ResidualTest = FALSE,
+  CIval = 0.05,
+  VarCalc = "None",
+  useParallel = TRUE,
+  nSims = 1000,
+  baseDir = getwd(),
+  plotValidation = FALSE,
+  trueVals = NULL,
+  trueCols = NULL,
+  doReport = TRUE
+)
